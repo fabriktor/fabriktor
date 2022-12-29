@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabriktor
-- 👀 I’m interested in dart, flutter and php.
+- 👀 I’m interested in server side go, server side dart, flutter and php.
 - 🌱 I’m currently learning flutter.
 - 📫 How to reach me: https://www.linkedin.com/in/philbaz/
 
